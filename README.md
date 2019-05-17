@@ -1,4 +1,7 @@
 
+
+[![Build Status](https://dev.azure.com/peterrivera813/10M_Customers/_apis/build/status/privera0813.pipelines-java?branchName=master)](https://dev.azure.com/peterrivera813/10M_Customers/_build/latest?definitionId=8&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
